@@ -9,3 +9,9 @@ film platformunda farklı dil seçenekleri, yüksek çözünürlükte görüntü
 -Responsive özellikleriyle daha akışkan bir sayfa,
 -yüksek çözünürlükte resim ve video serileri,
 -menü içerikleri ve hızlı ulaşım.
+
+# Ekran Kaydı     
+
+
+https://github.com/enesyildiz1/filmsitesi/assets/164679866/4ee37988-94cb-4a4a-9903-156bd74d75dc
+
