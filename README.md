@@ -6,6 +6,6 @@ Size sunduğum site açık ve pratik arayüzü sayesinde kolay bir şekilde iste
 film platformunda farklı dil seçenekleri, yüksek çözünürlükte görüntü kalitesi ve gelişmiş ses teknolojisi ile zengin bir izleme deneyimiyle karşılacaksınız.
 
 # DİZAYN
-Responsive özellikleriyle daha akışkan bir sayfa
-yüksek çözünürlükte resim ve video serileri
-menü içerikleri ve hızlı ulaşım 
+-Responsive özellikleriyle daha akışkan bir sayfa,
+-yüksek çözünürlükte resim ve video serileri,
+-menü içerikleri ve hızlı ulaşım.
